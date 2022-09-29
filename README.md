@@ -7,5 +7,5 @@ about the pros and cons of Chess AI and Chess Engines. After finishing my projec
     
 ## Contact me :iphone:
 
-- ![linkedIn icon](assets/linkedIn-icon.png):  https://www.linkedin.com/in/guillermo-tuesta-rodriguez-b89464231/
+- ![linkedIn icon](assets/linkedIn-icon.png) :  https://www.linkedin.com/in/guillermo-tuesta-rodriguez-b89464231/
 - :email:    : rrafterr44@gmail.com
